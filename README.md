@@ -11,6 +11,6 @@
  
 - Técnologias :
 
- * HTML
- * CSS 
- * BOOTSTRAP
+   * HTML
+   * CSS 
+   * BOOTSTRAP
