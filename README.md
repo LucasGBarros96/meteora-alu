@@ -3,14 +3,14 @@
 
 - Aplicado Ferramentas do Bootstrap 5 :
 
-* Responsividade em imagens e componente.
-* Temas de cores do Bootstrap em um projeto.
-* Implementando acessibilidade para leitores de tela.
-* Posicione elementos utilizando soluções com Grid e Flexbox do Bootstrap.
+  Responsividade em imagens e componente.
+  Temas de cores do Bootstrap em um projeto.
+  Implementando acessibilidade para leitores de tela.
+  Posicione elementos utilizando soluções com Grid e Flexbox do Bootstrap.
 
  
 - Técnologias :
 
-* HTML
-* CSS 
-* BOOTSTRAP
+  HTML
+  CSS 
+  BOOTSTRAP
